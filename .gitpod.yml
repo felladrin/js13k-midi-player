@@ -1,0 +1,5 @@
+tasks:
+  - command: npm start -- 3000
+ports:
+  - port: 3000
+    onOpen: open-preview

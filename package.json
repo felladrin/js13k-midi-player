@@ -6,7 +6,7 @@
   "exports": "./tinysequencer.js",
   "types": "./tinysequencer.d.ts",
   "scripts": {
-    "start": "npx -y servor editor"
+    "start": "npx -y servor editor index.html"
   },
   "author": "Donitzo",
   "license": "MIT"
