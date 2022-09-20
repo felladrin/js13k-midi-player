@@ -87,4 +87,4 @@ For optimal compression, note properties are aligned by type, not by note index:
 
 You can start the editor by running the command `npm run editor`.
 
-Or you can run it directly from GitHub: [Online TinySequencer](https://htmlpreview.github.io/?https://github.com/felladrin/tinysequencer/blob/master/editor/index.html).
+Or you can run it directly from GitHub: [Online TinySequencer](https://felladrin.github.io/tinysequencer/index.html).
