@@ -22,7 +22,7 @@
  * }
  */
 
-class TinySequencer {
+export class TinySequencer {
     constructor(ac, data, destNode, maxMidi = 108) {
         // Cut curve at time t and interpolate a new point at the end (p = [time, value, ramp])
         function cutoff(curve, t) {

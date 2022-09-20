@@ -1,0 +1,13 @@
+{
+  "name": "tinysequencer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": "./tinysequencer.js",
+  "types": "./tinysequencer.d.ts",
+  "scripts": {
+    "start": "npx -y servor editor"
+  },
+  "author": "Donitzo",
+  "license": "MIT"
+}
