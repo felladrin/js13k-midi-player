@@ -1,5 +1,0 @@
-tasks:
-  - command: npm run editor -- -p 3000
-ports:
-  - port: 3000
-    onOpen: open-preview
